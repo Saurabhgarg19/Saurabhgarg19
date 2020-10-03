@@ -38,7 +38,7 @@ I'm also a Competitive Programmer and achieved sereval milestones on different C
 -->
 <hr/>
 
-<img align="right" alt="img"   width="45%" src="https://imgur.com/gallery/RaHyECD"   />
+<img align="right" alt="img"   width="45%" src="https://media.tenor.com/videos/8b1bc6a7d895fff5bb33e918e5ade7c2/mp4"   />
 
 
 
