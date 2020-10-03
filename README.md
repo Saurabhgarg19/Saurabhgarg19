@@ -63,7 +63,7 @@ I'm also a Competitive Programmer and achieved sereval milestones on different C
 
  
 <br/>
-<img align="right" width="50%" height="30px" alt="img" src="https://i.imgur.com/xwvPIyu.jpeg" />
+<img align="right" width="50%" height="100px" alt="img" src="https://i.imgur.com/xwvPIyu.jpeg" />
 
 <img align="left" width="50%"  src="https://github-readme-stats.vercel.app/api?username=Saurabhgarg19&show_icons=true&hide_border=true" alt="saurabh" /> </p>
 <br/>
