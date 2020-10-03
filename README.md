@@ -45,23 +45,27 @@ I'm also a Competitive Programmer and achieved sereval milestones on different C
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on **Node.js,React.js,Angular,MySql,Rxjs**
+- 👨🏽‍💻 I’m currently working on **Data Structures And Algorithm, C++, Java, Mysql**
 
-- 🌱 I am currently learning **IPFS(peer2peer),docker,Flutter,Data Science**. 
+- 🌱 I am currently learning **React.js,Flutter,Firebase,Python**. 
 
 - 👯 I’m looking to collaborate on **anything free and open source**.
 
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
+- 🤔 I’m looking for help with Advanced Data Structures😭;
 
-- 💬Ask me about react, Angular and nodejs
+- 💬Ask me about Competitive Programming , Core Subjects.
 
-- 📫 How to reach me: mridulshukla037@gmail.com;
+- 📫 How to reach me: saurabh19.glb@gmail.com;
+
+- 😄 Pronouns: Let's Do It !!
+
+- ⚡ Fun fact: ....I can troll you....
 
  
 <br/>
-<img align="right" width="40%"  alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="right" width="40%"  alt="img" src="https://i.imgur.com/xwvPIyu.jpeg" />
 
-<img align="left" width="55%"  src="https://github-readme-stats.vercel.app/api?username=mridul037&show_icons=true&hide_border=true" alt="mridul" /> </p>
+<img align="left" width="55%"  src="https://github-readme-stats.vercel.app/api?username=Saurabhgarg19&show_icons=true&hide_border=true" alt="saurabh" /> </p>
 <br/>
 <br/>
 
@@ -70,19 +74,4 @@ I'm also a Competitive Programmer and achieved sereval milestones on different C
 
 </pre>
 
-### Hi there 👋
-
-<!--
-**Saurabhgarg19/Saurabhgarg19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Thanks For Reading, Have a Nice Day!!
