@@ -38,7 +38,7 @@ I'm also a Competitive Programmer and achieved sereval milestones on different C
 -->
 <hr/>
 
-<img align="right" alt="img"   width="45%" src="<div class="tenor-gif-embed" data-postid="8749684" data-share-method="host" data-width="100%" data-aspect-ratio="1.3387096774193548"><a href="https://tenor.com/view/coding-programando-computadora-gif-8749684">Courage The Cowardly Dog Coding GIF</a> from <a href="https://tenor.com/search/couragethecowardlydog-gifs">Couragethecowardlydog GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>"   />
+<img align="right" alt="img"   width="45%" src="https://tenor.com/search/couragethecowardlydog-gifs"   />
 
 
 
