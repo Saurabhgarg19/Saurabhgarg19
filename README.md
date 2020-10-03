@@ -50,15 +50,15 @@ I'm also a Competitive Programmer and achieved sereval milestones on different C
 
 - 👯 I’m looking to collaborate on **anything free and open source**.
 
-- 🤔 I’m looking for help with Advanced Data Structures😭;
+- 🤔 I’m looking for help with **Advanced Data Structures**.
 
-- 💬Ask me about Competitive Programming , Core Subjects.
+- 💬Ask me about **Competitive Programming , Core Subjects**.
 
 - 📫 How to reach me: saurabh19.glb@gmail.com;
 
-- 😄 Pronouns: Let's Do It !!
+- 😄 Pronouns: **Let's Do It !!**
 
-- ⚡ Fun fact: ....I can troll you....
+- ⚡ Fun fact: ....**I can troll you**....
 
  
 <br/>
