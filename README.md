@@ -63,15 +63,15 @@ I'm also a Competitive Programmer and achieved sereval milestones on different C
 
  
 <br/>
-<img align="right" width="50%" height="600px" alt="img" src="https://i.imgur.com/xwvPIyu.jpeg" />
+<img align="right" width="40%"  alt="img" src="https://i.imgur.com/IivYNST.jpg" />
 
-<img align="left" width="50%"  src="https://github-readme-stats.vercel.app/api?username=Saurabhgarg19&show_icons=true&hide_border=true" alt="saurabh" /> </p>
+<img align="left" width="55%"  src="https://github-readme-stats.vercel.app/api?username=Saurabhgarg19&show_icons=true&hide_border=true" alt="saurabh" /> </p>
 <br/>
 <br/>
 
 <pre>
 
-### Thanks For Reading, Have a Nice Day!!
+
 </pre>
 
-
+**Thanks For Reading, Have a Nice Day**
