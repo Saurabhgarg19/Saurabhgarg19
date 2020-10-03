@@ -28,9 +28,9 @@ I'm also a Competitive Programmer and achieved sereval milestones on different C
 
 **Quote of the Life:**
 
-{qoth}
+“Be active! Take on responsibility! Work for the things you believe in. If you do not, you are surrendering your fate to others.”
 
-~ {qoth_author}
+~ Dr. APJ Abdul Kalam
 <pre>
 
 </pre>
