@@ -76,4 +76,4 @@ I'm also a Competitive Programmer and achieved sereval milestones on different C
 
 
 
-**Scroll The Bar---------------------------------------------------->Thanks For Reading, Have a Nice Day**
+     **Scroll The Bar---------------------------------------------------->Thanks For Reading, Have a Nice Day**
