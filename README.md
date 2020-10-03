@@ -69,10 +69,9 @@ I'm also a Competitive Programmer and achieved sereval milestones on different C
 <br/>
 <br/>
 
-<pre>
 
 
-</pre>
+
 
 
 
