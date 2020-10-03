@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Saurabhgarg19/Saurabhgarg19/main/banner.jpg" width="100%" height="200px"/>
+<img src="https://raw.githubusercontent.com/Saurabhgarg19/Saurabhgarg19/main/IMG_20190811_075121%20(2).jpg" width="100%" height="300px"/>
 
 ### Hi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> I'm Saurabh
 <h3 align="center">A Passionate Developer From India</h3>
