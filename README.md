@@ -9,9 +9,6 @@ Hi, I'm Saurabh Garg, a Front End Developer 🚀 from India, pursuing B.Tech of 
 I'm also a Competitive Programmer and achieved sereval milestones on different Coding Platforms. Beside's programming, I enjoy eating food, practicing yoga and travelling by bicycle.
 
 <br/>
-
-<br/>
-<pre>
 <a href="https://www.linkedin.com/in/saurabhgarg19">
   <img align="left" alt="saurabh LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -24,15 +21,18 @@ I'm also a Competitive Programmer and achieved sereval milestones on different C
 <a href="https://www.hackerrank.com/saurabhgarg19">
   <img align="left" alt="saurabh hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/hackerrank.svg" />
 </a>
+<br/>
+<pre>
+
 </pre>
 
 **Quote of the Life:**
 
 “Be active! Take on responsibility! Work for the things you believe in. If you do not, you are surrendering your fate to others.”
 
-~ Dr. APJ Abdul Kalam
-<pre>
 
+<pre>
+~ Dr. APJ Abdul Kalam
 </pre>
 
 <hr/>
