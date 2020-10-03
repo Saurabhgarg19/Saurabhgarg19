@@ -74,4 +74,7 @@ I'm also a Competitive Programmer and achieved sereval milestones on different C
 
 </pre>
 
-**Thanks For Reading, Have a Nice Day**
+
+
+
+                                                         **Thanks For Reading, Have a Nice Day**
