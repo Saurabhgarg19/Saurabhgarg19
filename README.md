@@ -6,7 +6,7 @@
 <hr/>
 
 Hi, I'm Saurabh Garg, a Front End Developer 🚀 from India, pursuing B.Tech of Computer Science Engineering from GL Bajaj Institute of Technology,
-I'm also a Competitive Programmer and achieved sereval milestones on different Coding Platforms. Beside's programming, I enjoy eating food, practicing yoga and travelling by bicycle.
+I'm also a Competitive Programmer and achieved sereval milestones on different Coding Platforms. Beside's programming, I enjoy eating food, practicing yoga and travelling by bicycle. FYI: I love answering behavioral questions. I am a great storyteller.
 
 <br/>
 <a href="https://www.linkedin.com/in/saurabhgarg19">
