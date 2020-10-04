@@ -44,7 +44,7 @@ I'm also a Competitive Programmer and achieved sereval milestones on different C
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on **Data Structures And Algorithm, C++, Java, Mysql**.
+- 💻 I’m currently working on **Data Structures And Algorithm, C++, Java, Mysql**.
 
 - 🌱 I am currently learning **React.js,Flutter,Firebase,Python**. 
 
