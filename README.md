@@ -44,9 +44,9 @@ I'm also a Competitive Programmer and achieved sereval milestones on different C
 
 **Talking about Personal Stuffs:**
 
-- 💻 I’m currently working on **Data Structures And Algorithm, C++, Java, Mysql**.
+- 💻 I’m currently working on **Data Structures And Algorithm, C++, Java, SpringBoot, Mysql**.
 
-- 🌱 I am currently learning **React.js,Flutter,Firebase,Python**. 
+- 🌱 I am currently learning **Angular,Typescript,Google Cloud Platform,Python**. 
 
 - 👯 I’m looking to collaborate on **anything free and open source**.
 
@@ -57,8 +57,6 @@ I'm also a Competitive Programmer and achieved sereval milestones on different C
 - 📫 How to reach me: saurabh19.glb@gmail.com.
 
 - 😄 Pronouns: **Let's Do It !!**
-
-- ⚡ Fun fact: ....**I can troll you**....
 
  
 <br/>
